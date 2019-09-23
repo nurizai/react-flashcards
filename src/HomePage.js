@@ -18,7 +18,7 @@ function HomePage({ cards }) {
   )
 }
 
-const PageStyled = styled.section`
+const PageStyled = styled.main`
   padding: 20px;
   display: grid;
   align-content: flex-start;
